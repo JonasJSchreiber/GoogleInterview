@@ -2,11 +2,11 @@ Given a continent represented by a 2d matrix with values denoting altitude at th
 
 input:
 
-3 2 9
+  3 2 9
 
-2 2 2
+  2 2 2
 
-3 4 3
+  3 4 3
 
 output: 
 
@@ -16,13 +16,13 @@ input 2:
 
 (why you need backtracking)
 
-0  3  4  4 -1 -2
+  0  3  4  4 -1 -2
 
-0 -1  2  1  0  2
+  0 -1  2  1  0  2
 
-0 -1  3 -1 -1  2
+  0 -1  3 -1 -1  2
 
-0 -1 -1 -1 -2  2
+  0 -1 -1 -1 -2  2
 
 output: 
 
